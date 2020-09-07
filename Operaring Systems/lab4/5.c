@@ -1,4 +1,4 @@
-/* here after each read operation from file the fptr moves to a new line*/
+/*after each read operation from file the fptr moves to a new line*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/wait.h>
